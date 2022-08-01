@@ -1,14 +1,3 @@
-/****************************** MECH 8120 Heat Transfer, Fall 2020******************************
-Project 3 - Forced Convection Steady State Laminar Flow with Constant Wall Temperature
- Purpose: To determine the local and average Nusselt numbers for hydrodynamically
-          fully-developed, thermally developing, steady state, laminar flow in a pipe
- Author(s):      Aaron Au,    Charles Luu
- Student ID(s):  A00935196,   A00903725
-Declaration:
-We, Aaron Au and Charles Luu, declare that the following program was written by us.
-Date Created: November 10, 2020
-Revised:
-***********************************************************************************************/
 //--------------------------------Standard Libraries-------------------------------- 
 #include <stdio.h>
 #include <stdlib.h>
